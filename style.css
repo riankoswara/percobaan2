@@ -54,6 +54,7 @@ body    {
     font: 16px/28px arial, sans-serif;
     background-color: #eaeaea;
     color: #333;
+    background-image: url(img/bg.png);
 }
 
 .container {
@@ -119,4 +120,14 @@ body    {
 .content p  {
     margin-bottom: 20px;
     font-size: 14px;
+}
+
+.footer {
+    color: #333333;
+}
+
+.footer .copy {
+    color: #eaeaea;
+    text-align: center;
+    font-size: 12px;
 }
